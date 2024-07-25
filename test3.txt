@@ -1,4 +1,0 @@
-[mysql]
-user=test
-password=UIjgdjgajgdag
-password=SIDSJHDSHS

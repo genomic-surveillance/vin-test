@@ -1,3 +1,0 @@
-[PAYMENT SERVICE]
-username=Dummy
-password="TESTSECRET"
