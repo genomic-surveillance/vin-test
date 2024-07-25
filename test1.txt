@@ -1,0 +1,3 @@
+{
+"username": "test",
+"private_key": "-----BEGIN PRIVATE KEY-----UplGfPUopquUJRVfaJbIPE3oO6NGF7A/+rO/E9tlrGqe0JD71Bf/H3UEBnu8sb9kqv2UGEe0EreJsVw38aMHEkCDw8Aa57XkCnHrX/z9kjqaFXESkhW5qe5QQOgDU4UdkcKD3xmns2GD87uvcA9ieXriBiydD0KGEBbRE/92+Fl1GSRcxE/xUqQmHwNiLkjMhoP5Hmifa4kDkCYPbNlS/kOvfZHp6Q/MK2x+YEizeGAvMCrv9DJyuyGNHYc1/cuAe5d1oLpT+LN5dnpOJG3-----END PRIVATE KEY-----"
